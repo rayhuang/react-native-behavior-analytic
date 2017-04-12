@@ -1,0 +1,23 @@
+{
+  "name": "react-native-behavior-analytic",
+  "version": "1.0.0",
+  "description": "user behavior collecting for react-native-router-flux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayhuang/react-native-behavior-analytic.git"
+  },
+  "keywords": [
+    "react-native",
+    "analytic"
+  ],
+  "author": "Ray Huang <cybersurvivor@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayhuang/react-native-behavior-analytic/issues"
+  },
+  "homepage": "https://github.com/rayhuang/react-native-behavior-analytic#readme"
+}
